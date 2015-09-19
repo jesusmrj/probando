@@ -1,2 +1,3 @@
 # probando
-Ejemplo de repositorio, nada interesante que mirar
+Este repositorio es una prueba de funcionamiento para un futuro proyecto.
+
